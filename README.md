@@ -427,7 +427,7 @@ For questions or issues:
 MentraAI is **free to use** for students. We believe education should be accessible to everyone.
 
 ### How to Get Started
-1. Sign up at [mentraai.com](https://mentra-ai-plum.vercel.app/)
+1. Sign up at [https://mentra-ai-plum.vercel.app](https://mentra-ai-plum.vercel.app/)
 2. Complete your profile
 3. Start chatting with your AI mentor
 4. Explore quizzes, career planning, and study tools
