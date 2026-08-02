@@ -41,8 +41,6 @@ MentraAI unifies conversational AI, personalized learning, quizzes, career plann
 
 <div align="center">
 
-<img src="/assets/preview.png" alt="MentraAI — Product Preview" width="920" />
-
 <br />
 <br />
 
