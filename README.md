@@ -16,7 +16,7 @@ MentraAI unifies conversational AI, personalized learning, quizzes, career plann
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white)](https://mentra-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logoColor=white)](https://mentra-ai-plum.vercel.app/)
 [![Documentation](https://img.shields.io/badge/📖_Documentation-0A0A0A?style=for-the-badge)](https://github.com/tanisbedia/mentra-ai/wiki)
 [![Issues](https://img.shields.io/badge/🐛_Issues-141414?style=for-the-badge)](https://github.com/tanisbedia/mentra-ai/issues)
 [![Discussions](https://img.shields.io/badge/💬_Discussions-1A1A1A?style=for-the-badge)](https://github.com/tanisbedia/mentra-ai/discussions)
@@ -481,7 +481,7 @@ Released under the **[MIT License](LICENSE)** — free to use, modify, and distr
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanisbedia)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanish01234/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanisbedia)
 
 <br />
