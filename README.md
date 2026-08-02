@@ -6,16 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,50:6d28d9,100:06b6d4&text=&fontSize=0&animation=fadeIn" alt="" />
 
-# Tanis Bedia
-
-### AI Product Engineer
-
-<p>
-  <em>Building products where intelligence feels human.</em>
-</p>
-
-<br />
-
 # MentraAI
 
 ### Your Personal AI Learning Mentor
@@ -520,5 +510,7 @@ Part of a family of crafted products — **Synora** · **IdeaForge AI** · **Ins
 ⭐ **If MentraAI helps you learn, star the repository — it helps more students find their mentor.**
 
 <br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06b6d4,55:2563eb,100:0a0a0f&section=footer&fontSize=0" alt="" />
 
 </div>
