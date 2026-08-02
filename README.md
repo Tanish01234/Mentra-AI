@@ -33,11 +33,8 @@ MentraAI unifies conversational AI, personalized learning, quizzes, career plann
 
 </div>
 
-<br />
-
 <div align="center">
 
-<br />
 <br />
 
 </div>
