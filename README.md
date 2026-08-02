@@ -46,14 +46,6 @@ MentraAI unifies conversational AI, personalized learning, quizzes, career plann
 <br />
 <br />
 
-<table>
-  <tr>
-    <td align="center"><img src="/assets/screens/mentor.png" alt="AI Mentor" width="280" /><br /><sub><b>AI Mentor</b></sub></td>
-    <td align="center"><img src="/assets/screens/quiz.png" alt="Quiz Arena" width="280" /><br /><sub><b>Quiz Arena</b></sub></td>
-    <td align="center"><img src="/assets/screens/analytics.png" alt="Analytics" width="280" /><br /><sub><b>Analytics</b></sub></td>
-  </tr>
-</table>
-
 </div>
 
 <br />
